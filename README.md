@@ -1,0 +1,1 @@
+http://railscasts.com/episodes/173-screen-scraping-with-scrapi
